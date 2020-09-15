@@ -1,0 +1,20 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-morchanabackend-prod-124456-authRole",
+            "UnauthRoleArn": "arn:aws:iam::035752912614:role/amplify-morchanabackend-prod-124456-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::035752912614:role/amplify-morchanabackend-prod-124456-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "amplify-morchanabackend-prod-124456-deployment",
+            "UnauthRoleName": "amplify-morchanabackend-prod-124456-unauthRole",
+            "StackName": "amplify-morchanabackend-prod-124456",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:035752912614:stack/amplify-morchanabackend-prod-124456/0d0a1710-90ef-11ea-89aa-02e842d24598",
+            "AmplifyAppId": "d3esle2zcrfp21"
+        },
+        "categories": {
+            "auth": {
+                "morchanabackend1d4d7dba": {}
+            }
+        }
+    }
+}

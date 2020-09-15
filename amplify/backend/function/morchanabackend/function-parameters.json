@@ -1,0 +1,9 @@
+{
+    "permissions": {
+        "auth": {
+            "morchanabackend1d4d7dba": [
+                "read"
+            ]
+        }
+    }
+}
